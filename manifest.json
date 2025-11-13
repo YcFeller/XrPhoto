@@ -1,0 +1,18 @@
+{
+  "item": {
+    "name": "Xr图库",
+    "description": "小米手环相册快应用",
+    "preview": ["preview1.png", "preview2.png", "preview3.png", "preview4.png", "preview5.png", "preview6.png", "preview7.png", "preview8.png", "preview9.png"],
+    "icon": "icon.png",
+    "author": [{
+      "name": "YcFeller"
+      "author_url": "https://fs0.top/"
+    }]
+  },
+  "downloads": {
+    "n67": {
+      "version": "1.0.1",
+      "file_name": "xrphotov1.0.1.rpk"
+    }
+  }
+}
